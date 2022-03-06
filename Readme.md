@@ -1,6 +1,6 @@
-# Peace Treaty
+# Peace Treaty Ukraine 2022
 
-Open project to discuss and improve the possible draft of peace treaty to end war in Ukraine
+Open project to discuss and improve the possible draft of peace treaty to end special war operation in Ukraine
 
 
 The actual text
